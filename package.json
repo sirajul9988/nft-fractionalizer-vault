@@ -1,0 +1,8 @@
+{
+  "name": "nft-fractionalizer",
+  "version": "1.0.0",
+  "description": "ERC721 to ERC20 fractionalization utility",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
